@@ -72,7 +72,7 @@ KhabarCheck/
 ## 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/yourusername/khabarcheck.git
+git clone https://github.com/yourusername/khabarcheck.git](https://github.com/yuvika28/KhabarCheck---AI-fake-news-generator-and-detector.git
 cd khabarcheck
 ```
 
